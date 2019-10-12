@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuitem_bottombar_home"
+        android:title="홈" />
+    <item
+        android:id="@+id/menuitem_bottombar_result"
+        android:title="결과" />
+    <item
+        android:id="@+id/menuitem_bottombar_setting"
+        android:title="설정" />
+</menu>
